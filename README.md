@@ -27,7 +27,7 @@ Patch files for HeartGold Reversed
   - All of Violet & some of Ecruteak gym trainers adjusted (as per current design docs)
   - All remaining trainers have team members reduced to level 1, but are otherwise as-per original interior location
 - Scripts, flags, level scripts, story variables updated for Gyms 1-5 (Violet-Cianwood)
-  - Custom interactions that don;t match characterisations (such as Whitney/Bruno not providing badge initially) are removed.
+  - Custom interactions that don't match characterisations (such as Whitney/Bruno not providing badge initially) are removed.
 - TM updates:
   - TM01, TM45 & TM61 have had their contents, descriptions & item sprites adjusted, as per designs (Sucker Punch, Cross Poison, Twister)
   - TM01, TM45 & TM61 learnsets have been adjusted, as per designs (based on level up, tutor & egg learnsets for Gen IV)
@@ -35,7 +35,8 @@ Patch files for HeartGold Reversed
   - Swapped Game Corner (Celadon) prize from TM74 (Gyro Ball) to TM23 (Iron Tail)
   - TM30 (Shadow Ball) added to SE of Dragon's Den
   - Swapped Rare Candy from Olivine Lighthouse to TM51 (Roost) - exterior where player has to drop down out of the tower.
-  - TM89 (U-Turn) now available in Route 47 (swapped for the Revive normall available near teh route entrance)
+  - TM89 (U-Turn) now available in Route 47 (swapped for the Revive normall available near the route entrance)  
+
 Not included in this patch:
 - Adjustments to the Gym Leader and Elite Four rematch teams
 - Adjustments to Goldenrod Radio Tower (Whitney), Pokeathelon Dome (Whitney) & Burned Tower (Morty) events.
