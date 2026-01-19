@@ -1,7 +1,40 @@
-# HeartGold-Reversed
-Patch files for HeartGold Reversed
+# HeartGold in Reverse
+Patch files for HeartGold in Reverse
+
+# Attribution
+| Name | Contribution |
+| --- | --- |
+| [OKreations](https://www.youtube.com/@Okreations) | [Concept](https://www.youtube.com/watch?v=SJDdFpz8RjU), game design & content |
+| [MrHam88](https://github.com/DevHam88) | Implementation/development |
+| [TrainerFromHoenn](https://www.youtube.com/channel/UC_fK0rrfrgZSKcXPi7UnNXQ) | *Support:* Guidance on badge case graphic changes |
+| [PurpleZaffre](https://www.deviantart.com/purplezaffre/gallery) | *Assets:* Dragon Tamer OW sprites (maker) |
+| [maicerochico](https://www.deviantart.com/maicerochico) | *Assets:* Dragon Tamer OW sprites (original commissioner) |
+| [Kyledove](https://pokengine.org/users/kyledove) | *Assets:* Ninja Boy OW sprites (maker) |
+
+| Primary Tools | Contribution |
+| --- | --- |
+| [DSPRE](https://github.com/DS-Pokemon-Rom-Editor/DSPRE) | Majority of edits to scripts, texts & basic trainer team compositions |
+| [PDSMS](https://github.com/Trifindo/Pokemon-DS-Map-Studio) | Texture pack edits (changes to map elements such as Gym Exteriors & Champion statues) |
+| [VSMaker2](https://github.com/Chvlkie/VSMaker2) | Addition of "new" trainers |
 
 # Version History
+## Version 0.3: Gyms Rearranged Phase 2
+> Nb, Saves from previous working versions not compatible with this patch due to story variable changes.
+
+- Built from agreed base of v0.2.1
+- Game fully playable up to an including the Rocket Takeover of the Radio Tower in Goldenrod City.
+- Scripts, flags, level scripts, story variables updated for Gyms 1-7 (Violet-Mahogany)
+  - Insertion of new Dragon Tamer & Ninja Boy overworld sprites for Violet & Ecruteak Gym Trainers.
+  - Koga takeover of Ecruteak Gym scripting & texts
+  - New trigger for preventing access to Olivine Gym before medicine story element completed (rather than empty gym, given size/gym puzzle).
+  - Re-work of Olivine & Blackthorn Gym story flags & variables, including correction of Rocket Takeover variables set/incremented during the first seven gyms.
+- All Gym trainers are now aligned with design docs, including additional Steel-type trainers in Blackthorn Gym.
+- Completed adjustment of gym guide and gym statue texts
+- Significant replacement/edits to NPC texts throughout referencing the first 6 Gym Leaders & vanilla E4.
+- QoL feature: Professor Elm's aide provides free access to unlimited Rare Candies
+- Olivine Lighthouse minor re-write/edits
+- Lake of Rage, Mahogany Souvenir Shop & Rocket Hideout scripting and text updates (Lance to Falkner)
+
 ## Version 0.2.1: Goldenrod Narrative
 - Re-configured all of Goldenrod Gym precursor and post-events to include Bruno in thematic story elements: replacing Whitney's Radio Tower & Pokeathelon Dome events.
 - Radio card is no longer mandatory for story, Coin Case is now mandatory.
