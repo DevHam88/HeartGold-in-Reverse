@@ -17,6 +17,12 @@ Patch files for HeartGold in Reverse
 | [PDSMS](https://github.com/Trifindo/Pokemon-DS-Map-Studio) | Texture pack edits (changes to map elements such as Gym Exteriors & Champion statues) |
 | [VSMaker2](https://github.com/Chvlkie/VSMaker2) | Addition of "new" trainers |
 
+# Patching
+It is illegal to provide a pre-patched version of this ROM hack.
+This patch is compatible with a good clean `.nds` ROM dump from a US version of Poké HeartGold. Guidance on dumping the ROM from your cartridge can be found [here](https://ds-pokemon-hacking.github.io/docs/generation-iv/guides/getting_started/#prerequisites), along with the process to confirm a good clean dump was obtained by checking filehashes against this [known good ROMs list](https://ds-pokemon-hacking.github.io/docs/generation-iv/guides/getting_started/#known-good-roms).
+
+The provided patch is an `.xdelta` file, this can be applied using the [xDelta](https://www.romhacking.net/utilities/598/) tool.
+
 # Version History
 ## Version 0.3: Gyms Rearranged Phase 2
 > Nb, Saves from previous working versions not compatible with this patch due to story variable changes.
@@ -36,13 +42,13 @@ Patch files for HeartGold in Reverse
 - Lake of Rage, Mahogany Souvenir Shop & Rocket Hideout scripting and text updates (Lance to Falkner)
 
 ## Version 0.2.1: Goldenrod Narrative
-- Re-configured all of Goldenrod Gym precursor and post-events to include Bruno in thematic story elements: replacing Whitney's Radio Tower & Pokeathelon Dome events.
+- Re-configured all of Goldenrod Gym precursor and post-events to include Bruno in thematic story elements: replacing Whitney's Radio Tower & Pokéathelon Dome events.
 - Radio card is no longer mandatory for story, Coin Case is now mandatory.
 - All other changes from v0.2
 - Story element variations first occur when the player first arrives in Goldenrod City.
 
 ## Version 0.2: Gyms Rearranged Phase 1
-- Rearranged all Gym interiors & Pokemon League rooms & associated warps, as per designs
+- Rearranged all Gym interiors & Pokémon League rooms & associated warps, as per designs
   - Swapped exterior Gym textures (Violet,Goldenrod, Cianwood, Olivine, Blackthorn)
   - Inserted new exterior Gym texture (Azalea)
   - Changed all in-Gym (and in-League) overworlds for the new Gym Leaders
@@ -72,7 +78,7 @@ Patch files for HeartGold in Reverse
 
 Not included in this patch:
 - Adjustments to the Gym Leader and Elite Four rematch teams
-- Adjustments to Goldenrod Radio Tower (Whitney), Pokeathelon Dome (Whitney) & Burned Tower (Morty) events.
+- Adjustments to Goldenrod Radio Tower (Whitney), Pokéathelon Dome (Whitney) & Burned Tower (Morty) events.
 - Functional script changes to Olivine & Blackthorn Gym swaps (progress beyond Cianwood will not be possible in a meaningful way)
 - Change to VS Animations when Leader battles start
 
