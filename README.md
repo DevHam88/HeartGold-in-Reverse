@@ -17,6 +17,7 @@ Patch files for HeartGold in Reverse
 | [DSPRE](https://github.com/DS-Pokemon-Rom-Editor/DSPRE) | Majority of edits to scripts, texts & basic trainer team compositions |
 | [PDSMS](https://github.com/Trifindo/Pokemon-DS-Map-Studio) | Texture pack edits (changes to map elements such as Gym Exteriors & Champion statues) |
 | [VSMaker2](https://github.com/Chvlkie/VSMaker2) | Addition of "new" trainers |
+| [Raven's Dex Editor](https://github.com/RavenDS/dex-editor/) | Pokedex habitat/location udpates |
 
 # Patching
 It is illegal to provide a pre-patched version of this ROM hack.
@@ -39,6 +40,7 @@ The provided patch is an `.xdelta` file, this can be applied using the [xDelta](
 - Additional dialogue updates (NPCs, usually passing/optional comments related to Leaders, E4 members, badges, gyms etc.).
 - Changed the received species of teh Goldenrod Dept Store trade from a Machop to Clefairy (nickname: Muscle>Magic; swapped Atk & Sp.Atk IVs; Held Item: Macho Brace>Moon Stone).
 - Update of encounter files to include SS version exclusives (minimally disruptive to other species distribution, matching SS where possible).
+- Update of Pokedex habitat/locations based on encounter file changes.
 
 ## Version 0.3: Gyms Rearranged Phase 2
 > Nb, Saves from previous working versions not compatible with this patch due to story variable changes.
