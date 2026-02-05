@@ -7,6 +7,7 @@ Patch files for HeartGold in Reverse
 | [OKreations](https://www.youtube.com/@Okreations) | [Concept](https://www.youtube.com/watch?v=SJDdFpz8RjU), game design & content |
 | [MrHam88](https://github.com/DevHam88) | Implementation/development |
 | [TrainerFromHoenn](https://www.youtube.com/channel/UC_fK0rrfrgZSKcXPi7UnNXQ) | *Support:* Guidance on badge case graphic changes |
+| [Yogurcomics](https://www.fiverr.com/yogurcomics) | *Assets:* Falkner (Battle) Back Sprite |
 | [PurpleZaffre](https://www.deviantart.com/purplezaffre/gallery) | *Assets:* Dragon Tamer OW sprites (maker) |
 | [maicerochico](https://www.deviantart.com/maicerochico) | *Assets:* Dragon Tamer OW sprites (original commissioner) |
 | [Kyledove](https://pokengine.org/users/kyledove) | *Assets:* Ninja Boy OW sprites (maker) |
@@ -24,6 +25,21 @@ This patch is compatible with a good clean `.nds` ROM dump from a US version of 
 The provided patch is an `.xdelta` file, this can be applied using the [xDelta](https://www.romhacking.net/utilities/598/) tool.
 
 # Version History
+## Version 0.4: Main Game Complete
+> Nb, Saves from version 0.3 made before earning the Rising Badge are compatible with this patch, saves from after this point could causeinconsistencies due to story variable changes.
+
+- Updates to all Johto & Kanto Gym Leader, Elite Four & Chamption VS Cut-ins & baattle music to fit their types/colours/positions (including customising existing palettes and addition of four new variations).
+- Edited the "Fly HM" cut-in to replace Lance with Falkner (Lake of Rage scene).
+- Re-scripted the Dragon's Den sub-plot to be entirely optional, still only accessible after the eight badge obtained.
+- Reversed the order that the Kimono Girls are battled in (and minor dialogue changes to accomodate).
+- Insertion of Falkner backsprite (Rocket HQ multi-battle against Ariana & Grunt).
+- Update to the "arrival at Pokeathlon Dome" event, to include provision of 2500 Athlete Points (enough for a single evolution stone).
+- Update 'guard' in the Pokeathlon Dome receptionist script, to allow registration only after the jersey is obtained from Bruno.
+- Insertion of custom title screen.
+- Additional dialogue updates (NPCs, usually passing/optional comments related to Leaders, E4 members, badges, gyms etc.).
+- Changed the received species of teh Goldenrod Dept Store trade from a Machop to Clefairy (nickname: Muscle>Magic; swapped Atk & Sp.Atk IVs; Held Item: Macho Brace>Moon Stone).
+- Update of encounter files to include SS version exclusives (minimally disruptive to other species distribution, matching SS where possible).
+
 ## Version 0.3: Gyms Rearranged Phase 2
 > Nb, Saves from previous working versions not compatible with this patch due to story variable changes.
 
