@@ -303,6 +303,8 @@ This section documents only changes from the vanilla HeartGold experience. If a 
 ### Wild Encounters
 This section documents only changes from the vanilla HeartGold experience. If a route/location is not present here, its encounters are unchanged from vanilla HeartGold.
 
+The 'habitat' feature of the Pokédex has been updated to reflect these wild encounter changes.
+
 TBC
 
 ## Trainers
