@@ -54,12 +54,12 @@ This section documents only changes from the vanilla HeartGold experience. Any g
 | Macho Brace | Held Item on the MACHOP trade in Goldenrod Dept. Store | Ground item on the West side of the exterior of the Pokéathlon Dome |
 | Radio Card | *Mandatory* acquisition through quiz in ground floor of Radio Tower | *Optional* acquisition through quiz in ground floor of Radio Tower |
 | Rare Candy | Limited ground items | Professor Elm's assistant will offer to give up to 999 Rare Candies to the player after starter selection, and can refill to 999 at most other points in game progression. Rare Candy sell price reduced to £100. |
-| TM01 | *Focus Punch*: reward for defeating Chuck (fifth Gym Leader, Cianwood City) | *Sucker Punch*: reward for defeating Karen (second Gym Leader, Azalea Town) |
+| TM01 | **Focus Punch**: reward for defeating Chuck (fifth Gym Leader, Cianwood City) | **Sucker Punch**: reward for defeating Karen (second Gym Leader, Azalea Town) |
 | TM23 | Iron Tail: reward for defeating Jasmine (sixth Gym Leader, Olivine City) | Iron Tail: Celadon City Game Corner Prize Exchange (10,000 Coins) |
 | TM30 | Shadow Ball: reward for defeating Morty (fourth Gym Leader, Ecruteak City), Battle Frontier prize (64BP) | Shadow Ball: ground item in Dragon's Den (South-East), Battle Frontier prize (64BP) |
-| TM45 | *Attract*: reward for defeating Whitney (third Gym Leader, Goldenrod City) | *Cross Poison*: reward for defeating Koga (fourth Gym Leader, Ecruteak City) |
+| TM45 | **Attract**: reward for defeating Whitney (third Gym Leader, Goldenrod City) | **Cross Poison**: reward for defeating Koga (fourth Gym Leader, Ecruteak City) |
 | TM51 | Roost: reward for defeating Falkner (first Gym Leader, Violet City) | Roost: ground item on the mid-level balcony of the Glitter Lighthouse (Olivine City) |
-| TM61 | *Will-O-Wisp*: Battle Frontier prize (32BP) | *Twister*: reward for defeating Lance (first Gym Leader, Violet City), Battle Frontier prize (32BP) |
+| TM61 | **Will-O-Wisp**: Battle Frontier prize (32BP) | **Twister**: reward for defeating Lance (first Gym Leader, Violet City), Battle Frontier prize (32BP) |
 | TM74 | Gyro Ball: Celadon City Game Corner Prize Exchange (10,000 Coins) | Gyro Ball: reward for defeating Jasmine (eighth Gym Leader, Blackthorn City) |
 | TM89 | U-Turn: reward for defeating Bugsy (second Gym Leader, Azalea Town) | U-Turn: ground item on the East side of Route 47 |
 
