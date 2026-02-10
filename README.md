@@ -7,6 +7,7 @@ Patch files for HeartGold in Reverse
 | [OKreations](https://www.youtube.com/@Okreations) | [Concept](https://www.youtube.com/watch?v=SJDdFpz8RjU), game design & content |
 | [MrHam88](https://github.com/DevHam88) | Implementation/development |
 | [TrainerFromHoenn](https://www.youtube.com/channel/UC_fK0rrfrgZSKcXPi7UnNXQ) | *Support:* Guidance on badge case graphic changes |
+| [Chvlkie](https://github.com/Chvlkie) | Research into VS cut-in graphics, music and trainer class assignment |
 | [Yogurcomics](https://www.fiverr.com/yogurcomics) | *Assets:* Falkner (Battle) Back Sprite |
 | [PurpleZaffre](https://www.deviantart.com/purplezaffre/gallery) | *Assets:* Dragon Tamer OW sprites (maker) |
 | [maicerochico](https://www.deviantart.com/maicerochico) | *Assets:* Dragon Tamer OW sprites (original commissioner) |
