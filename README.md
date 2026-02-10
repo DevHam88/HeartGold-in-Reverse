@@ -8,6 +8,14 @@ Each Gym Leader and Elite Four member receives a new team, based on their counte
 
 Details of how to patch the game, and documentation of the changes are provided here, along with attribution for the various contributors to the ROM Hack.
 
+# Version History
+
+| Version | Release Date | Overview |
+| --- | --- | --- |
+| v1.0 | TBC | Initial public release |
+
+Detailed development version history can be found [here](https://github.com/DevHam88/HeartGold-in-Reverse/blob/main/version_control.md).
+
 # Attribution
 
 This hack was concieved of, and designed by [OKreations](https://www.youtube.com/@Okreations), and implemented by [MrHam88](https://github.com/DevHam88).
