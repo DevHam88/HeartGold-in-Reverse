@@ -20,6 +20,7 @@ The majority of main story events unfold as per the vanilla HeartGold game, howe
 - Goldenrod Gym badge: the player must follow Bruno to the Pokéathlon Dome after victory in order to obtain the Storm Badge (3rd badge).
 - Olivine Gym: gym trainers are present and must be defeated in the Olivine Gym (Clair's dragon-type gym)
 - Dragon's Den: this is now a completely optional location, and is not required in order for the player to earn all eight Johto badges.
+- Kimono Girls: the order of back-to-back trainer battles against the Kimono Girls in Ecruteak Dance Theatre has been reversed, and is now Kuni, Sayo, Miki, Naoko, Zuki.
 
 The required badge order for outsider Pokémon obedience levels and HM enablement is retained, though the actual badges obtained (names and graphics have been changed to better reflect the new Gym Leaders).
 
