@@ -55,4 +55,4 @@ This patch is compatible with a good clean `.nds` ROM dump from a US version of 
 The provided patch is an `.xdelta` file, this can be applied using the [xDelta](https://www.romhacking.net/utilities/598/) tool.
 
 # Documentation
-See the repository Wiki for documentation on all the changes included in this ROM Hack.
+See the repository [documentation](https://github.com/DevHam88/HeartGold-in-Reverse/blob/main/documentation.md) on all the changes included in this ROM Hack.
