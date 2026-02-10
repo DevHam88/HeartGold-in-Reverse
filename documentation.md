@@ -10,6 +10,7 @@ This wiki provides an overview of the gameplay changes to the vanilla HeartGold 
 - [Currency](#currency)
 - [Encounters](#encounters)
 - [Trainers](#trainers)
+- [Gym Leader Phone Numbers](#gym-leader-phone-numbers)
 
 ## Story
 
@@ -305,4 +306,14 @@ TBC
 
 ## Trainers
 
+TBC
+
+## Gym Leader Phone Numbers
+### Phone Number Acquisition
+TBC
+
+### Arranging Rematches
+TBC
+
+### Photo Locations
 TBC
