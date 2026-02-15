@@ -24,16 +24,16 @@ The majority of main story events unfold as per the vanilla HeartGold game, howe
 
 The required badge order for outsider Pokémon obedience levels and HM enablement is retained, though the actual badges obtained (names and graphics have been changed to better reflect the new Gym Leaders).
 
-| Order | Location | Name | Gym Leader |
-| --- | --- | --- | --- |
-| 1 | Violet City | Zephyr Badge | Lance |
-| 2 | Azalea Town | Fog Badge | Karen |
-| 3 | Goldenrod City | Storm Badge | Bruno |
-| 4 | Ecruteak City | Hive Badge | Koga |
-| 5 | Cianwood City | Plain Badge | Will |
-| 6 | Olivine City | Rising Badge | Clair |
-| 7 | Mahogany Town | Glacier Badge | Pryce |
-| 8 | Blackthorn City | Mineral Badge | Jasmine |
+| Order | Location | Name | Gym Leader | HM Enabled | Obedience Threshold | Reward TM |
+| :---: | :---: | :---: | :---: | :--- | :---: | :--- |
+| 1 | Violet City | Zephyr Badge | Lance | `HM06` - Rock Smash | Level 20 | `TM61` - Twister |
+| 2 | Azalea Town | Fog Badge | Karen | `HM01` - Cut | Level 30 | `TM01` - Sucker Punch |
+| 3 | Goldenrod City | Storm Badge | Bruno | `HM04` - Strength | n/a | `TM08` - Bulk Up |
+| 4 | Ecruteak City | Hive Badge | Koga | `HM03` - Surf | Level 50 | `TM45` - Cross Poison |
+| 5 | Cianwood City | Plain Badge | Will | `HM02` - Fly | n/a | `TM29` - Psychic |
+| 6 | Olivine City | Rising Badge | Clair | n/a | Level 70 | `TM59` - Dragon Pulse |
+| 7 | Mahogany Town | Glacier Badge | Pryce | `HM05` - Whirlpool | n/a | `TM07` - Hail |
+| 8 | Blackthorn City | Mineral Badge | Jasmine | `HM07` - Waterfall | Level 100 | `TM74` - Gyro Ball |
 
 ## Visuals and Graphics
 
@@ -313,10 +313,40 @@ TBC
 
 ## Gym Leader Phone Numbers
 ### Phone Number Acquisition
-TBC
+
+| Gym Leader | Away from Gym Location | Away from Gym Days/Times | Away from Gym Conditions |
+| --- | --- | --- | --- |
+| Lance | Ruins of Alph | Thursdays (00:00-23:59) | none |
+| Karen | Ilex Forest | Tuesdays (00:00-23:59) | none |
+| Bruno | Victory Road | Wednesdays (00:00-23:59) | none |
+| Koga | Cianwood Pharmacy | Mondays (00:00-23:59) | Soul Badge obtained, Falkner/Janine event complete (see below) |
+| Will | Safari Zone Gate | Any Day (12:00-15:59) | none |
+
+| Related Events | Location | Days/Times | Conditions |
+| --- | --- | --- | --- |
+| Falkner/Janine | Celadown Dept Store (4th) | Mondays (00:00-23:59) | Soul Badge obtained |
 
 ### Arranging Rematches
-TBC
+
+| Gym Leader | Rematch Call Window | Rematch Conditions |
+| --- | --- | --- |
+| Lance | Thursday Afternoons (10:00-19:59) | 16 Gym Badges |
+| Karen | Tuesday Night (20:00-03:59) | 16 Gym Badges |
+| Bruno | tbc | 16 Gym Badges |
+| Koga | Saturday Mornings (04:00-09:59) | 16 Gym Badges |
+| Will | tbc | 16 Gym Badges |
 
 ### Photo Locations
-TBC
+
+| Photograph NPC | Location | Days/Times | Conditions |
+| --- | --- | --- | --- |
+| Falkner | Celadon Dept Store (4th) | Wednesdays (00:00-23:59) | Koga's Number Registered |
+| Bugsy | National Park | Fridays (00:00-23:59) | Hall of Fame |
+| Whitney | Goldenrod Dept Store | ??? | ??? |
+| Morty | Bellchime Trail | Mondays or Tuesdays (00:00-23:59) | Hall of Fame |
+| Chuck | ??? | ??? | Jade Orb not obtained (as per vanilla HGSS) |
+| Lance | ??? | ??? | ??? |
+| Karen | Ilex Forest | Tuesdays (00:00-23:59) | Karen's Number Registered |
+| Bruno | ??? | ??? | ??? |
+| Koga | ??? | ??? | ??? |
+| Will | ??? | ??? | ??? |
