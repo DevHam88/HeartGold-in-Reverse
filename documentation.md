@@ -312,41 +312,45 @@ TBC
 TBC
 
 ## Gym Leader Phone Numbers
+This section documents only changes from the vanilla HeartGold experience. If a Gym Leader is not present here, the methods for acquiring their phone numbers, arranging rematches and taking photographs are unchanged from vanilla HeartGold.
+
 ### Phone Number Acquisition
+After the player has entered the Hall of Fame, and until the player has acquired their phone number, Gym Leaders will be absent from their Gyms during the following periods, their locations at these times can be visited in order to acquire the phone numbers.  
 
 | Gym Leader | Away from Gym Location | Away from Gym Days/Times | Away from Gym Conditions |
 | --- | --- | --- | --- |
-| Lance | Ruins of Alph | Thursdays (00:00-23:59) | none |
-| Karen | Ilex Forest | Tuesdays (00:00-23:59) | none |
-| Bruno | Victory Road | Wednesdays (00:00-23:59) | none |
-| Koga | Cianwood Pharmacy | Mondays (00:00-23:59) | Soul Badge obtained, Falkner/Janine event complete (see below) |
-| Will | Safari Zone Gate | Any Day (12:00-15:59) | none |
+| Lance | Ruins of Alph | Thursdays (00:00-23:59) | Hall of Fame |
+| Karen | Ilex Forest | Tuesdays (00:00-23:59) | Hall of Fame |
+| Bruno | Victory Road | Wednesdays (00:00-23:59) | Hall of Fame |
+| Koga | Cianwood Pharmacy | Mondays (00:00-23:59) | Hall of Fame; Soul Badge obtained; Falkner/Janine event complete (see below) |
+| Will | Safari Zone Gate | Any Day (12:00-15:59) | Hall of Fame |
 
 | Related Events | Location | Days/Times | Conditions |
 | --- | --- | --- | --- |
 | Falkner/Janine | Celadown Dept Store (4th) | Mondays (00:00-23:59) | Soul Badge obtained |
 
 ### Arranging Rematches
-
+As with all other Gym Leader's in the vanilla game, once the Gym Leader's phone number is acquired, the player must call them during the following rematch call window to arrange the rematch.  
 | Gym Leader | Rematch Call Window | Rematch Conditions |
 | --- | --- | --- |
 | Lance | Thursday Afternoons (10:00-19:59) | 16 Gym Badges |
 | Karen | Tuesday Night (20:00-03:59) | 16 Gym Badges |
-| Bruno | tbc | 16 Gym Badges |
+| Bruno | Wednesday Night (20:00-03:59) | 16 Gym Badges |
 | Koga | Saturday Mornings (04:00-09:59) | 16 Gym Badges |
-| Will | tbc | 16 Gym Badges |
+| Will | Saturday Afternoons (10:00-19:59) | 16 Gym Badges |
 
 ### Photo Locations
+Once the Gym Leader's phone number has been acquired, the Leaders will be available to take photographs with the player. The days and times that they are absent from the Gym and can have a photograph taken are detailed below. Additionally, the Elite Four & Champion (whose phone numbers can no longer be acquired), are still available for photographs in the locations that they are in the vanilla Heartgold game. Any conditions to their photos beyond entering the Hall of Fame are shown below.  
 
 | Photograph NPC | Location | Days/Times | Conditions |
 | --- | --- | --- | --- |
 | Falkner | Celadon Dept Store (4th) | Wednesdays (00:00-23:59) | Koga's Number Registered |
 | Bugsy | National Park | Fridays (00:00-23:59) | Hall of Fame |
-| Whitney | Goldenrod Dept Store | ??? | ??? |
+| Whitney | Goldenrod Dept Store | Any Day (18:00-20:59) | Hall of Fame |
 | Morty | Bellchime Trail | Mondays or Tuesdays (00:00-23:59) | Hall of Fame |
-| Chuck | ??? | ??? | Jade Orb not obtained (as per vanilla HGSS) |
-| Lance | Ruins of Alph | ??? | ??? |
+| Chuck | Route 47 | Sundays (00:00-23:59) | Hall of Fame; Jade Orb not obtained (as per vanilla HGSS) |
+| Lance | Ruins of Alph | Mondays (00:00-23:59) | Lance's Number Registered |
 | Karen | Ilex Forest | Tuesdays (00:00-23:59) | Karen's Number Registered |
 | Bruno | Victory Road | Fridays (00:00-23:59) | Bruno's Number Registered |
-| Koga | Cianwood Pharmacy | ??? | ??? |
-| Will | Safari Zone Gate | ??? | ??? |
+| Koga | Mahogany Town | Wednesday (00:00-23:59) | Koga's Number Registered |
+| Will | Safari Zone Gate | Any Day (18:00-20:59) | Will's Number Registered |
