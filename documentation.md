@@ -305,7 +305,32 @@ This section documents only changes from the vanilla HeartGold experience. If a 
 
 The 'habitat' feature of the Pokédex has been updated to reflect these wild encounter changes.
 
-TBC
+- [Route 30](/documentation/encounterset_003_route_30.md)
+- [Route 31](/documentation/encounterset_004_route_31.md)
+- [Route 36](/documentation/encounterset_025_route_36.md)
+- [Route 37](/documentation/encounterset_026_route_37.md)
+- [Route 45](/documentation/encounterset_067_route_45.md)
+- [Route 48](/documentation/encounterset_102_route_48.md)
+- [Route 28](/documentation/encounterset_105_route_28.md)
+- Victory Road
+  - [1F](/documentation/encounterset_110_victory_road_1f.md)
+  - [2F](/documentation/encounterset_134_victory_road_2f.md)
+  - [3F](/documentation/encounterset_135_victory_road_3f.md)
+- [Route 2](/documentation/encounterset_112_route_2.md)
+- [Route 3](/documentation/encounterset_113_route_3.md)
+- [Route 7](/documentation/encounterset_117_route_7.md)
+- [Route 8](/documentation/encounterset_118_route_8.md)
+- Cerulean Cave
+  - [1F](/documentation/encounterset_139_cerulean_cave_1f.md)
+- [Mount Silver](/documentation/encounterset_085_mt._silver.md)
+- Mount Silver Cave
+  - [1F](/documentation/encounterset_086_mt._silver_cave_1f.md)
+  - [2F](/documentation/encounterset_080_mt._silver_cave_2f.md)
+  - [3F](/documentation/encounterset_081_mt._silver_cave_3f.md)
+  - [Expert Belt Chamber](/documentation/encounterset_088_mt._silver_cave_expert_belt_chamber.md)
+  - [Moltres Chamber](/documentation/encounterset_079_mt._silver_cave_moltres_chamber.md)
+  - [Lower Mountainside](/documentation/encounterset_087_mt._silver_cave_lower_mountainside.md)
+  - [Upper Mountainside](/documentation/encounterset_089_mt._silver_cave_upper_mountainside.md)
 
 ## Trainers
 
