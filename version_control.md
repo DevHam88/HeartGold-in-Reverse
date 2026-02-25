@@ -1,8 +1,21 @@
 # Version History
-## Version 0.4: Main Game Complete
-> Nb, Saves from version 0.3 made before earning the Rising Badge are compatible with this patch, saves from after this point could causeinconsistencies due to story variable changes.
 
-- Updates to all Johto & Kanto Gym Leader, Elite Four & Chamption VS Cut-ins & baattle music to fit their types/colours/positions (including customising existing palettes and addition of four new variations).
+## Version 0.5: Game Complete (Pre-Release)
+> Nb, Saves from version 0.4 made before entering the Hall of Fame are compatible with this patch, saves from after this point could cause minor experience issues (Gym Leader rematches & Radio EXPN Card).
+
+- Rework of first five Pokegear Phone Number: Call content, phone number acquistion process, acquisiton locations (replacing Falkner, Bugsy, Whitney, Morty & Chuck, with replacements).
+- Rework of "photo opportunities" with first five vanilla Gym Leaders (now E4 & Champion) to be decoupled from Pokegear phone number acquistion.
+- Inclusion of new "photo opportunities" for the new first five Gym Leaders.
+- Re-scaling of the Gym Leader & Elite Four rematch teams' levels, held items and trainer items, to represent their new positions.
+- Adjustments to team compositions for Lance & Clair according to requirements docs & playtesting.
+- Reduce sell price of Rare Candies to 100
+- Missing overworld items added (Macho Brace to Pokeathlon Dome, TM89 to Route 47)
+- Bugfixes from v0.4 (minor), including text/dialogue issues and resolving "infinite" TM30 pickup.
+
+## Version 0.4: Main Game Complete
+> Nb, Saves from version 0.3 made before earning the Rising Badge are compatible with this patch, saves from after this point could cause inconsistencies due to story variable changes.
+
+- Updates to all Johto & Kanto Gym Leader, Elite Four & Chamption VS Cut-ins & battle music to fit their types/colours/positions (including customising existing palettes and addition of four new variations).
 - Edited the "Fly HM" cut-in to replace Lance with Falkner (Lake of Rage scene).
 - Re-scripted the Dragon's Den sub-plot to be entirely optional, still only accessible after the eight badge obtained.
 - Reversed the order that the Kimono Girls are battled in (and minor dialogue changes to accomodate).
