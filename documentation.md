@@ -1,6 +1,6 @@
 # Documentation
 
-This wiki provides an overview of the gameplay changes to the vanilla HeartGold game included in this ROM hack. Given the aims of the project to maintain an authentic Johto experience with minimal disruption or change except to the League member order, no fundamental gameplay mechanics such as the battle engine or field mechanics were changed.
+This section provides an overview of the gameplay changes to the vanilla HeartGold game included in this ROM hack. Given the aims of the project to maintain an authentic Johto experience with minimal disruption or change except to the League member order, no fundamental gameplay mechanics such as the battle engine or field mechanics were changed.
 
 ## Table of Contents
 - [Story](#story)
@@ -11,6 +11,8 @@ This wiki provides an overview of the gameplay changes to the vanilla HeartGold 
 - [Encounters](#encounters)
 - [Trainers](#trainers)
 - [Gym Leader Phone Numbers](#gym-leader-phone-numbers)
+
+---
 
 ## Story
 
@@ -24,16 +26,18 @@ The majority of main story events unfold as per the vanilla HeartGold game, howe
 
 The required badge order for outsider Pokémon obedience levels and HM enablement is retained, though the actual badges obtained (names and graphics have been changed to better reflect the new Gym Leaders).
 
-| Order | Location | Name | Gym Leader |
-| --- | --- | --- | --- |
-| 1 | Violet City | Zephyr Badge | Lance |
-| 2 | Azalea Town | Fog Badge | Karen |
-| 3 | Goldenrod City | Storm Badge | Bruno |
-| 4 | Ecruteak City | Hive Badge | Koga |
-| 5 | Cianwood City | Plain Badge | Will |
-| 6 | Olivine City | Rising Badge | Clair |
-| 7 | Mahogany Town | Glacier Badge | Pryce |
-| 8 | Blackthorn City | Mineral Badge | Jasmine |
+| Order | Location | Name | Gym Leader | HM Enabled | Obedience Threshold | Reward TM |
+| :---: | :---: | :---: | :---: | :--- | :---: | :--- |
+| 1 | Violet City | Zephyr Badge | Lance | `HM06` - Rock Smash | Level 20 | `TM61` - Twister |
+| 2 | Azalea Town | Fog Badge | Karen | `HM01` - Cut | Level 30 | `TM01` - Sucker Punch |
+| 3 | Goldenrod City | Storm Badge | Bruno | `HM04` - Strength | n/a | `TM08` - Bulk Up |
+| 4 | Ecruteak City | Hive Badge | Koga | `HM03` - Surf | Level 50 | `TM45` - Cross Poison |
+| 5 | Cianwood City | Plain Badge | Will | `HM02` - Fly | n/a | `TM29` - Psychic |
+| 6 | Olivine City | Rising Badge | Clair | n/a | Level 70 | `TM59` - Dragon Pulse |
+| 7 | Mahogany Town | Glacier Badge | Pryce | `HM05` - Whirlpool | n/a | `TM07` - Hail |
+| 8 | Blackthorn City | Mineral Badge | Jasmine | `HM07` - Waterfall | Level 100 | `TM74` - Gyro Ball |
+
+---
 
 ## Visuals and Graphics
 
@@ -45,6 +49,8 @@ A number of graphics have been updated to reflect the changes in Gym Leaders / L
 - Gym building colour schemes
 - Gym interiors & Elite Four rooms (the order and association of the the graphics), for example Bugsy's Gym interior model (Azalea Town) is now Koga's Gym interior (Ecruteak City).
 - Restoration of the *appearance* of original Japanese Game Corner in Goldenrod City (the "slot machines" still initiate the Voltorb Flip minigame only).
+
+---
 
 ## Items
 This section documents only changes from the vanilla HeartGold experience. Any ground, gift or mart items that are not mentioned explicitly are unchanged from vanilla HeartGold.
@@ -63,6 +69,8 @@ This section documents only changes from the vanilla HeartGold experience. Any g
 | TM61 | **Will-O-Wisp**: Battle Frontier prize (32BP) | **Twister**: reward for defeating Lance (first Gym Leader, Violet City), Battle Frontier prize (32BP) |
 | TM74 | Gyro Ball: Celadon City Game Corner Prize Exchange (10,000 Coins) | Gyro Ball: reward for defeating Jasmine (eighth Gym Leader, Blackthorn City) |
 | TM89 | U-Turn: reward for defeating Bugsy (second Gym Leader, Azalea Town) | U-Turn: ground item on the East side of Route 47 |
+
+---
 
 ## Learnsets
 This section documents only changes from the vanilla HeartGold experience. Any learnsets that are not mentioned explicitly are unchanged from vanilla HeartGold.
@@ -269,6 +277,8 @@ As above, the content of three TMs has been altered. The TM compatibility of tho
 
 </details>
 
+---
+
 ## Currency
 This section documents only changes from the vanilla HeartGold experience. Any gift of currency that are not mentioned explicitly are unchanged from vanilla HeartGold.
 
@@ -305,18 +315,92 @@ This section documents only changes from the vanilla HeartGold experience. If a 
 
 The 'habitat' feature of the Pokédex has been updated to reflect these wild encounter changes.
 
-TBC
+- [Route 30](/documentation/encounters/encounterset_003_route_30.md)
+- [Route 31](/documentation/encounters/encounterset_004_route_31.md)
+- [Route 36](/documentation/encounters/encounterset_025_route_36.md)
+- [Route 37](/documentation/encounters/encounterset_026_route_37.md)
+- [Route 45](/documentation/encounters/encounterset_067_route_45.md)
+- [Route 48](/documentation/encounters/encounterset_102_route_48.md)
+- [Route 28](/documentation/encounters/encounterset_105_route_28.md)
+- Victory Road
+  - [1F](/documentation/encounters/encounterset_110_victory_road_1f.md)
+  - [2F](/documentation/encounters/encounterset_134_victory_road_2f.md)
+  - [3F](/documentation/encounters/encounterset_135_victory_road_3f.md)
+- [Route 2](/documentation/encounters/encounterset_112_route_2.md)
+- [Route 3](/documentation/encounters/encounterset_113_route_3.md)
+- [Route 7](/documentation/encounters/encounterset_117_route_7.md)
+- [Route 8](/documentation/encounters/encounterset_118_route_8.md)
+- Cerulean Cave
+  - [1F](/documentation/encounters/encounterset_139_cerulean_cave_1f.md)
+- [Mount Silver](/documentation/encounters/encounterset_085_mt._silver.md)
+- Mount Silver Cave
+  - [1F](/documentation/encounters/encounterset_086_mt._silver_cave_1f.md)
+  - [2F](/documentation/encounters/encounterset_080_mt._silver_cave_2f.md)
+  - [3F](/documentation/encounters/encounterset_081_mt._silver_cave_3f.md)
+  - [Expert Belt Chamber](/documentation/encounters/encounterset_088_mt._silver_cave_expert_belt_chamber.md)
+  - [Moltres Chamber](/documentation/encounters/encounterset_079_mt._silver_cave_moltres_chamber.md)
+  - [Lower Mountainside](/documentation/encounters/encounterset_087_mt._silver_cave_lower_mountainside.md)
+  - [Upper Mountainside](/documentation/encounters/encounterset_089_mt._silver_cave_upper_mountainside.md)
+
+---
 
 ## Trainers
+This section documents only changes from the vanilla HeartGold experience. If a trainer is not present here, it is unchanged from vanilla HeartGold. In the interests of consistency, the Gym Trainers in Mahogany Gym (which have not been altered) have their details included in the relevant section.
 
-TBC
+- [Violet Gym](/documentation/trainers/violet_gym.md)
+- [Azalea Gym](/documentation/trainers/azalea_gym.md)
+- [Goldenrod Gym](/documentation/trainers/goldenrod_gym.md)
+- [Ecruteak Gym](/documentation/trainers/ecruteak_gym.md)
+- [Cianwood Gym](/documentation/trainers/cianwood_gym.md)
+- [Olivine Gym](/documentation/trainers/olivine_gym.md)
+- [Mahogany Gym](/documentation/trainers/mahogany_gym.md)
+- [Blackthorn Gym](/documentation/trainers/blackthorn_gym.md)
+- [Indigo Plateau](/documentation/trainers/indigo_plateau_1.md)
+- [Indigo Plateau (Rematches)](/documentation/trainers/indigo_plateau_2.md)
+- [Saffron Fighting Dojo](/documentation/trainers/fighting_dojo.md)
+
+---
 
 ## Gym Leader Phone Numbers
+This section documents only changes from the vanilla HeartGold experience. If a Gym Leader is not present here, the methods for acquiring their phone numbers, arranging rematches and taking photographs are unchanged from vanilla HeartGold.
+
 ### Phone Number Acquisition
-TBC
+After the player has entered the Hall of Fame, and until the player has acquired their phone number, Gym Leaders will be absent from their Gyms during the following periods, their locations at these times can be visited in order to acquire the phone numbers.  
+
+| Gym Leader | Away from Gym Location | Away from Gym Days/Times | Away from Gym Conditions |
+| --- | --- | --- | --- |
+| Lance | Ruins of Alph | Thursdays (00:00-23:59) | Hall of Fame |
+| Karen | Ilex Forest | Tuesdays (00:00-23:59) | Hall of Fame |
+| Bruno | Victory Road | Wednesdays (00:00-23:59) | Hall of Fame |
+| Koga | Cianwood Pharmacy | Mondays (00:00-23:59) | Hall of Fame; Soul Badge obtained; Falkner/Janine event complete (see below) |
+| Will | Safari Zone Gate | Any Day (12:00-15:59) | Hall of Fame |
+
+| Related Events | Location | Days/Times | Conditions |
+| --- | --- | --- | --- |
+| Falkner/Janine | Celadown Dept Store (4th) | Mondays (00:00-23:59) | Soul Badge obtained |
 
 ### Arranging Rematches
-TBC
+As with all other Gym Leader's in the vanilla game, once the Gym Leader's phone number is acquired, the player must call them during the following rematch call window to arrange the rematch.  
+| Gym Leader | Rematch Call Window | Rematch Conditions |
+| --- | --- | --- |
+| Lance | Thursday Afternoons (10:00-19:59) | 16 Gym Badges |
+| Karen | Tuesday Night (20:00-03:59) | 16 Gym Badges |
+| Bruno | Wednesday Night (20:00-03:59) | 16 Gym Badges |
+| Koga | Saturday Mornings (04:00-09:59) | 16 Gym Badges |
+| Will | Saturday Afternoons (10:00-19:59) | 16 Gym Badges |
 
 ### Photo Locations
-TBC
+Once the Gym Leader's phone number has been acquired, the Leaders will be available to take photographs with the player. The days and times that they are absent from the Gym and can have a photograph taken are detailed below. Additionally, the Elite Four & Champion (whose phone numbers can no longer be acquired), are still available for photographs in the locations that they are in the vanilla Heartgold game. Any conditions to their photos beyond entering the Hall of Fame are shown below.  
+
+| Photograph NPC | Location | Days/Times | Conditions |
+| --- | --- | --- | --- |
+| Falkner | Celadon Dept Store (4th) | Wednesdays (00:00-23:59) | Koga's Number Registered |
+| Bugsy | National Park | Fridays (00:00-23:59) | Hall of Fame |
+| Whitney | Goldenrod Dept Store | Any Day (18:00-20:59) | Hall of Fame |
+| Morty | Bellchime Trail | Mondays or Tuesdays (00:00-23:59) | Hall of Fame |
+| Chuck | Route 47 | Sundays (00:00-23:59) | Hall of Fame; Jade Orb not obtained (as per vanilla HGSS) |
+| Lance | Ruins of Alph | Mondays (00:00-23:59) | Lance's Number Registered |
+| Karen | Ilex Forest | Tuesdays (00:00-23:59) | Karen's Number Registered |
+| Bruno | Victory Road | Fridays (00:00-23:59) | Bruno's Number Registered |
+| Koga | Mahogany Town | Wednesday (00:00-23:59) | Koga's Number Registered |
+| Will | Safari Zone Gate | Any Day (18:00-20:59) | Will's Number Registered |
