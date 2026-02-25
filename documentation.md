@@ -12,6 +12,8 @@ This wiki provides an overview of the gameplay changes to the vanilla HeartGold 
 - [Trainers](#trainers)
 - [Gym Leader Phone Numbers](#gym-leader-phone-numbers)
 
+---
+
 ## Story
 
 The majority of main story events unfold as per the vanilla HeartGold game, however a small number of minor story elements have been re-worked to be more appropriate to the new positions of the League members. This section will provide a high-level overview of the changes, and includes spoilers. Events which fundamentally remain as they are in vanilla, but with changed characters and dialogue only, are not listed.
@@ -35,6 +37,8 @@ The required badge order for outsider Pokémon obedience levels and HM enablemen
 | 7 | Mahogany Town | Glacier Badge | Pryce | `HM05` - Whirlpool | n/a | `TM07` - Hail |
 | 8 | Blackthorn City | Mineral Badge | Jasmine | `HM07` - Waterfall | Level 100 | `TM74` - Gyro Ball |
 
+---
+
 ## Visuals and Graphics
 
 A number of graphics have been updated to reflect the changes in Gym Leaders / League members. These include (but are not limited to):
@@ -45,6 +49,8 @@ A number of graphics have been updated to reflect the changes in Gym Leaders / L
 - Gym building colour schemes
 - Gym interiors & Elite Four rooms (the order and association of the the graphics), for example Bugsy's Gym interior model (Azalea Town) is now Koga's Gym interior (Ecruteak City).
 - Restoration of the *appearance* of original Japanese Game Corner in Goldenrod City (the "slot machines" still initiate the Voltorb Flip minigame only).
+
+---
 
 ## Items
 This section documents only changes from the vanilla HeartGold experience. Any ground, gift or mart items that are not mentioned explicitly are unchanged from vanilla HeartGold.
@@ -63,6 +69,8 @@ This section documents only changes from the vanilla HeartGold experience. Any g
 | TM61 | **Will-O-Wisp**: Battle Frontier prize (32BP) | **Twister**: reward for defeating Lance (first Gym Leader, Violet City), Battle Frontier prize (32BP) |
 | TM74 | Gyro Ball: Celadon City Game Corner Prize Exchange (10,000 Coins) | Gyro Ball: reward for defeating Jasmine (eighth Gym Leader, Blackthorn City) |
 | TM89 | U-Turn: reward for defeating Bugsy (second Gym Leader, Azalea Town) | U-Turn: ground item on the East side of Route 47 |
+
+---
 
 ## Learnsets
 This section documents only changes from the vanilla HeartGold experience. Any learnsets that are not mentioned explicitly are unchanged from vanilla HeartGold.
@@ -269,6 +277,8 @@ As above, the content of three TMs has been altered. The TM compatibility of tho
 
 </details>
 
+---
+
 ## Currency
 This section documents only changes from the vanilla HeartGold experience. Any gift of currency that are not mentioned explicitly are unchanged from vanilla HeartGold.
 
@@ -332,9 +342,24 @@ The 'habitat' feature of the Pokédex has been updated to reflect these wild enc
   - [Lower Mountainside](/documentation/encounterset_087_mt._silver_cave_lower_mountainside.md)
   - [Upper Mountainside](/documentation/encounterset_089_mt._silver_cave_upper_mountainside.md)
 
-## Trainers
+---
 
-TBC
+## Trainers
+This section documents only changes from the vanilla HeartGold experience. If a trainer is not present here, it is unchanged from vanilla HeartGold. In the interests of consistency, the Gym Trainers in Mahogany Gym (which have not been altered) have their details included in the relevant section.
+
+- [Violet Gym](/documentation/trainers/violet_gym.md)
+- [Azalea Gym](/documentation/trainers/azalea_gym.md)
+- [Goldenrod Gym](/documentation/trainers/goldenrod_gym.md)
+- [Ecruteak Gym](/documentation/trainers/ecruteak_gym.md)
+- [Cianwood Gym](/documentation/trainers/cianwood_gym.md)
+- [Olivine Gym](/documentation/trainers/olivine_gym.md)
+- [Mahogany Gym](/documentation/trainers/mahogany_gym.md)
+- [Blackthorn Gym](/documentation/trainers/blackthorn_gym.md)
+- [Indigo Plateau](/documentation/trainers/indigo_plateau_1.md)
+- [Indigo Plateau (Rematches)](/documentation/trainers/indigo_plateau_2.md)
+- [Saffron Fighting Dojo](/documentation/trainers/fighting_dojo.md)
+
+---
 
 ## Gym Leader Phone Numbers
 This section documents only changes from the vanilla HeartGold experience. If a Gym Leader is not present here, the methods for acquiring their phone numbers, arranging rematches and taking photographs are unchanged from vanilla HeartGold.
