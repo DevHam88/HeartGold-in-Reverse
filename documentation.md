@@ -1,6 +1,6 @@
 # Documentation
 
-This wiki provides an overview of the gameplay changes to the vanilla HeartGold game included in this ROM hack. Given the aims of the project to maintain an authentic Johto experience with minimal disruption or change except to the League member order, no fundamental gameplay mechanics such as the battle engine or field mechanics were changed.
+This section provides an overview of the gameplay changes to the vanilla HeartGold game included in this ROM hack. Given the aims of the project to maintain an authentic Johto experience with minimal disruption or change except to the League member order, no fundamental gameplay mechanics such as the battle engine or field mechanics were changed.
 
 ## Table of Contents
 - [Story](#story)
