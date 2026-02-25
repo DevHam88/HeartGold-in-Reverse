@@ -1,5 +1,6 @@
 ### Indigo Plateau (Rematch)
 
+[Return to Docs](/documentation.md)
 
 <table>
   <tr>
