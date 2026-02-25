@@ -1,5 +1,6 @@
 ### Olivine Gym
 
+[Return to Docs](/documentation.md)
 
 <table>
   <tr>
