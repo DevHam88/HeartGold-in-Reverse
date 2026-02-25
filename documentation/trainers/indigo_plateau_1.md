@@ -1,5 +1,6 @@
 ### Indigo Plateau
 
+[Return to Docs](/documentation.md)
 
 <table>
   <tr>
