@@ -1,6 +1,6 @@
 ### Azalea Gym
 
-[Return to Docs](documentation.md)
+[Return to Docs](/documentation.md)
 
 <table>
   <tr>
