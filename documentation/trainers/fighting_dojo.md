@@ -1,5 +1,6 @@
 ### Saffron City Fighting Dojo
 
+[Return to Docs](/documentation.md)
 
 <table>
   <tr>
