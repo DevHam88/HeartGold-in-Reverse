@@ -2,9 +2,9 @@
 
 # Pokémon HeartGold in Reverse
 
-This ROM Hack is a based on the "what if?" premise, where each of the Gym Leaders, Elite Four members & Champion have their relative positions reversed. The first Gym Leader Falkner becomes the Champion, the Champion Lance becomes the first Gym Leader, and so on. The original video for Johto's reversed League can be found [here](https://youtu.be/SJDdFpz8RjU?si=ueDQU9GM82McrSE6).
+This ROM Hack is a based on the "what if?" premise, where each of the Gym Leaders, Elite Four members & Champion have their relative positions reversed. The first Gym Leader Falkner becomes the Champion, the Champion Lance becomes the first Gym Leader, and so on. The original video by OKreations for Johto's reversed League can be found [here](https://youtu.be/SJDdFpz8RjU?si=ueDQU9GM82McrSE6).
 
-Each Gym Leader and Elite Four member receives a new team, based on their counterparts' original teams, but in reverse order. This game features new teams built to be a relatively equivelent difficulty level to the original counterpart, aiming to retain the vast majority of the vanilla experience otherwise. To support this, you'll find updated story elements to reflect the new leaders, new TMs provided by each Gym Leader and a challenging new Elite Four experience.
+Each Gym Leader and Elite Four member receives a new team, based on their counterparts' original teams, but in reverse order. This game features new teams built to be a relatively equivalent difficulty level to the original counterpart, aiming to retain the vast majority of the vanilla experience otherwise. To support this, you'll find updated story elements to reflect the new leaders, new TMs provided by each Gym Leader and a challenging new Elite Four experience.
 
 Details of how to patch the game, and documentation of the changes are provided here, along with attribution for the various contributors to the ROM Hack.
 
@@ -34,7 +34,7 @@ In addition to development, a number of individuals directly or indirectly contr
 | [Kyledove](https://pokengine.org/users/kyledove) | *Assets:* Ninja Boy OW sprites (maker) |
 
 ## Tooling
-This ROM hack was made using many tools and learnings, the primary tooling used in its creation is listed below. Attribution for these tools is widespread, from the initial creators to the developers, maintainers and even bug-catchers (testers!).  
+This ROM hack was made using many tools and learnings, the primary tooling used in its creation is listed below. Attribution for these tools is widespread, from the initial creators to the developers, maintainers and even testers (bug-catchers!).  
 
 Foremost amongst them is DS Pokémon Rom Editor (DSPRE) Reloaded, continuously developed by a number of individuals over many years to make ROM hacking accessible, including (but very much not limited to!) [AdAstra](https://github.com/AdAstra-LD), [Mixone](https://github.com/Mixone-FinallyHere), [Yako](https://github.com/YakoSWG), [Kalaay](https://github.com/KalaayPT) & [Kuha](https://github.com/corentinmace).
 
@@ -46,7 +46,7 @@ Foremost amongst them is DS Pokémon Rom Editor (DSPRE) Reloaded, continuously d
 | [Raven's Dex Editor](https://github.com/RavenDS/dex-editor/) | Pokédex habitat/location udpates |
 
 ## Pokémon DS ROM Hacking Community
-Everything I've learned about ROM hacking has come from the [Kingdom of DS ROM Hacking Discord community](https://discord.gg/zAtqJDW2jC) and the [DS Pokémon Hacking Wiki](https://ds-pokemon-hacking.github.io/), without which this hack would not exist, and if it did would be of significantly lower quality.
+Everything I've (MrHam88) learned about ROM hacking has come from the [Kingdom of DS ROM Hacking Discord community](https://discord.gg/zAtqJDW2jC) and the [DS Pokémon Hacking Wiki](https://ds-pokemon-hacking.github.io/), without which I would not have been able to make this hack at zll.
 
 # Patching
 It is illegal to provide a pre-patched version of this ROM hack.
