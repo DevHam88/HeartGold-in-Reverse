@@ -288,12 +288,13 @@ This section documents only changes from the vanilla HeartGold experience. Any g
 ## Encounters
 The vast majority of wild encounters are exactly as they are in the vanilla HeartGold game, in order to create the "what if?" experience by changing only one fundamental component.
 
-Two concessions have been made in terms of encounters, documented below:
+Three concessions have been made in terms of encounters, documented below:
 1. Trade Encounter in Goldenrod Dept. Store changed as a sympathetic reflection of the Gym Leader change here.
-2. The version exclusive encoutners from SoulSilver have been incorporated into this HeartGold hack.
+2. Species who evolve via trade (either only trade, or trade while holding an item) have been given additional evolution methods.
+3. The version exclusive encoutners from SoulSilver have been incorporated into this HeartGold hack.
 
 ### Trade Encounters
-This section documents only changes from the vanilla HeartGold experience. If a trade is not present here, its is unchanged from vanilla HeartGold.
+This section documents only changes from the vanilla HeartGold experience. If a trade is not present here, it is unchanged from vanilla HeartGold.
 
 | Parameter | Value |
 | --- | --- |
@@ -309,6 +310,31 @@ This section documents only changes from the vanilla HeartGold experience. If a 
 | SPATK IV | 25 |
 | SPDEF IV | 15 |
 | SPE IV | 20 |
+
+### Trade Evolutions
+This section documents only species whose evolution methods have changed from the vanilla HeartGold experience. If a species is not present here, it is unchanged from vanilla HeartGold.
+
+| Species    | Evolves to…   | Method 1                              | Method 2                                 |
+|:-----------|:--------------|:--------------------------------------|:-----------------------------------------|
+| Clamperl   | Gorebyss      | Trade + Holding **DeepSeaScale** Item | Level-up + Holding **DeepSeaScale** Item |
+| Clamperl   | Huntail       | Trade + Holding **DeepSeaTooth** Item | Level-up + Holding **DeepSeaTooth** Item |
+| Dusclops   | Dusknoir      | Trade + Holding **Reaper Cloth** Item | Level-up + Holding **Reaper Cloth** Item |
+| Electabuzz | Electivire    | Trade + Holding **Electirizer** Item  | Level-up + Holding **Electirizer** Item  |
+| Graveler   | Golem         | Trade                                 | Use **Linking Cord** Item                |
+| Haunter    | Gengar        | Trade                                 | Use **Linking Cord** Item                |
+| Kadabra    | Alakazam      | Trade                                 | Use **Linking Cord** Item                |
+| Machoke    | Machamp       | Trade                                 | Use **Linking Cord** Item                |
+| Magmar     | Magmortar     | Trade + Holding **Magmarizer** Item   | Level-up + Holding **Magmarizer** Item   |
+| Onix       | Steelix       | Trade + Holding **Metal Coat** Item   | Level-up + Holding **Metal Coat** Item   |
+| Poliwhirl  | Politoed      | Trade + Holding **King's Rock** Item  | Level-up + Holding **King's Rock** Item  |
+| Poliwhirl  | Poliwrath     | Use **Water Stone** Item              |                                          |
+| Porygon    | Porygon2      | Trade + Holding **Upgrade** Item      | Level-up + Holding **Upgrade** Item      |
+| Porygon2   | Porygon-Z     | Trade + Holding **Dubious Disc** Item | Level-up + Holding **Dubious Disc** Item |
+| Rhydon     | Rhyperior     | Trade + Holding **Protector** Item    | Level-up + Holding **Protector** Item    |
+| Scyther    | Scizor        | Trade + Holding **Metal Coat** Item   | Level-up + Holding **Metal Coat** Item   |
+| Seadra     | Kingdra       | Trade + Holding **Dragon Scale** Item | Level-up + Holding **Dragon Scale** Item |
+| Slowpoke   | Slowbro       | Level-up from **Level 37**            |                                          |
+| Slowpoke   | Slowking      | Trade + Holding **King's Rock** Item  | Level-up + Holding **King's Rock** Item  |
 
 ### Wild Encounters
 This section documents only changes from the vanilla HeartGold experience. If a route/location is not present here, its encounters are unchanged from vanilla HeartGold.
