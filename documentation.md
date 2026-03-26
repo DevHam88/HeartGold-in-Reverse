@@ -58,6 +58,8 @@ This section documents only changes from the vanilla HeartGold experience. Any g
 | Item | Vanilla HeartGold content/location | HeartGold in Reverse content/location | 
 | --- | --- | --- |
 | Coin Case | *Optional* acquisition from Goldenrod Game Corner | *Mandatory* acquisition from Goldenrod Game Corner |
+| Linking Cord | - | Overworld item pickup (x1) northern Cianwood City, behind Rock Smash boulders. |
+| Linking Cord | - | NPC gift item (x3) Pokémon League lobby, new NPC opposite Abra trainer. |
 | Macho Brace | Held Item on the MACHOP trade in Goldenrod Dept. Store | Ground item on the West side of the exterior of the Pokéathlon Dome |
 | Radio Card | *Mandatory* acquisition through quiz in ground floor of Radio Tower | *Optional* acquisition through quiz in ground floor of Radio Tower |
 | Rare Candy | Limited ground items | Professor Elm's assistant will offer to give up to 999 Rare Candies to the player after starter selection, and can refill to 999 at most other points in game progression. Rare Candy sell price reduced to £100. |
