@@ -7,7 +7,8 @@
 - Bug Fix: corrected the Pokegear Map Card location "pointers" when inside the Gym interiors that have moved locations relative to their exteriors.
 - New Feature: Added the "Linking Cord" item (#113, previously unused), set with attributes for use as a pseudo evolution stone. Added new evolution methods to Machoke, Haunter, Kadabra & Graveler so that they can evolve by use of this item.
 - New Feature: Edited the evolution data of all species who evolve by trade while holding an item. These all now have an additional evolution method of evolving into those target species when levelled up and holding the relevant item (day or night).
-- New Items: added an overworld "Linking Cord" item behind the Rock Smash boulders in northern Cianwood City.
+- New Item: added 1x overworld "Linking Cord" item behind the Rock Smash boulders in northern Cianwood City.
+- New Item: added 3x gift "Linking Cord" items from new NPC in Pokemon League lobby (opposite the Abra guy).
 
 ## Version 0.5: Game Complete (Pre-Release)
 > Nb, Saves from version 0.4 made before entering the Hall of Fame are compatible with this patch, saves from after this point could cause minor experience issues (Gym Leader rematches & Radio EXPN Card).
