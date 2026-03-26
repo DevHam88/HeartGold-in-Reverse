@@ -46,7 +46,7 @@ Foremost amongst them is DS Pokémon Rom Editor (DSPRE) Reloaded, continuously d
 | [Raven's Dex Editor](https://github.com/RavenDS/dex-editor/) | Pokédex habitat/location udpates |
 
 ## Pokémon DS ROM Hacking Community
-Everything I've (MrHam88) learned about ROM hacking has come from the [Kingdom of DS ROM Hacking Discord community](https://discord.gg/zAtqJDW2jC) and the [DS Pokémon Hacking Wiki](https://ds-pokemon-hacking.github.io/), without which I would not have been able to make this hack at zll.
+Everything I've (MrHam88) learned about ROM hacking has come from the [Kingdom of DS ROM Hacking Discord community](https://discord.gg/zAtqJDW2jC) and the [DS Pokémon Hacking Wiki](https://ds-pokemon-hacking.github.io/), without which I would not have been able to make this hack at all.
 
 # Patching
 It is illegal to provide a pre-patched version of this ROM hack.
