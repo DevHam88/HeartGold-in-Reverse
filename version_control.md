@@ -1,6 +1,6 @@
 # Version History
 
-## Version 0.6: Game Complete (Pre-Release)
+## Version 0.6: Game Complete (Pre-Release Bug Fixes)
 > Nb, Saves from version 0.5 are compatible with this patch.
 
 - Bug Fix: positioned the "Running Shoes" man back in Cherrygrove East (OW had accidentally been moved to Cherrygrove West during debugging of v0.5).
