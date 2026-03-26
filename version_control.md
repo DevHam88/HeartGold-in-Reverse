@@ -1,5 +1,12 @@
 # Version History
 
+## Version 0.6: Game Complete (Pre-Release)
+> Nb, Saves from version 0.5 are compatible with this patch.
+
+- Bug Fix: positioned the "Running Shoes" man back in Cherrygrove East (OW had accidentally been moved to Cherrygrove West during debugging of v0.5).
+- Bug Fix: corrected the Pokegear Map Card location "pointers" when inside the Gym interiors that have moved locations relative to their exteriors.
+- New Feature: Added the "Linking Cord" item (#113, previously unused), set with attributes for use as a pseudo evolution stone. Added new evolution methods to Machoke, Haunter, Kadabra & Graveler so that they can evolve by use of this item.
+
 ## Version 0.5: Game Complete (Pre-Release)
 > Nb, Saves from version 0.4 made before entering the Hall of Fame are compatible with this patch, saves from after this point could cause minor experience issues (Gym Leader rematches & Radio EXPN Card).
 
