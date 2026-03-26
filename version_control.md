@@ -17,14 +17,14 @@
 
 - Updates to all Johto & Kanto Gym Leader, Elite Four & Chamption VS Cut-ins & battle music to fit their types/colours/positions (including customising existing palettes and addition of four new variations).
 - Edited the "Fly HM" cut-in to replace Lance with Falkner (Lake of Rage scene).
-- Re-scripted the Dragon's Den sub-plot to be entirely optional, still only accessible after the eight badge obtained.
+- Re-scripted the Dragon's Den sub-plot to be entirely optional, still only accessible after the eighth badge obtained.
 - Reversed the order that the Kimono Girls are battled in (and minor dialogue changes to accomodate).
 - Insertion of Falkner backsprite (Rocket HQ multi-battle against Ariana & Grunt).
 - Update to the "arrival at Pokeathlon Dome" event, to include provision of 2500 Athlete Points (enough for a single evolution stone).
 - Update 'guard' in the Pokeathlon Dome receptionist script, to allow registration only after the jersey is obtained from Bruno.
 - Insertion of custom title screen.
 - Additional dialogue updates (NPCs, usually passing/optional comments related to Leaders, E4 members, badges, gyms etc.).
-- Changed the received species of teh Goldenrod Dept Store trade from a Machop to Clefairy (nickname: Muscle>Magic; swapped Atk & Sp.Atk IVs; Held Item: Macho Brace>Moon Stone).
+- Changed the received species of the Goldenrod Dept Store trade from a Machop to Clefairy (nickname: Muscle>Magic; swapped Atk & Sp.Atk IVs; Held Item: Macho Brace>Moon Stone).
 - Update of encounter files to include SS version exclusives (minimally disruptive to other species distribution, matching SS where possible).
 - Update of Pokedex habitat/locations based on encounter file changes.
 
@@ -78,7 +78,7 @@
   - Swapped Game Corner (Celadon) prize from TM74 (Gyro Ball) to TM23 (Iron Tail)
   - TM30 (Shadow Ball) added to SE of Dragon's Den
   - Swapped Rare Candy from Olivine Lighthouse to TM51 (Roost) - exterior where player has to drop down out of the tower.
-  - TM89 (U-Turn) now available in Route 47 (swapped for the Revive normall available near the route entrance)  
+  - TM89 (U-Turn) now available in Route 47 (swapped for the Revive normally available near the route entrance)  
 
 Not included in this patch:
 - Adjustments to the Gym Leader and Elite Four rematch teams
