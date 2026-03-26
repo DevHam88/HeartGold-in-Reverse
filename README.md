@@ -32,6 +32,7 @@ In addition to development, a number of individuals directly or indirectly contr
 | [PurpleZaffre](https://www.deviantart.com/purplezaffre/gallery) | *Assets:* Dragon Tamer OW sprites (maker) |
 | [maicerochico](https://www.deviantart.com/maicerochico) | *Assets:* Dragon Tamer OW sprites (original commissioner) |
 | [Kyledove](https://pokengine.org/users/kyledove) | *Assets:* Ninja Boy OW sprites (maker) |
+| [Deann](https://discord.com/channels/446824489045721090/848319596226412635/1362192772911861962) | *Assets:* Linking Cord item sprite (maker) |
 
 ## Tooling
 This ROM hack was made using many tools and learnings, the primary tooling used in its creation is listed below. Attribution for these tools is widespread, from the initial creators to the developers, maintainers and even testers (bug-catchers!).  
