@@ -43,7 +43,7 @@ The required badge order for outsider Pokémon obedience levels and HM enablemen
 
 A number of graphics have been updated to reflect the changes in Gym Leaders / League members. These include (but are not limited to):
 - Overworld sprites (including HM cut-ins where appropriate & addition of custom trainer class sprites for Ninja Boy and Dragon Tamer)
-- Battle trainer sprites (front and back where apprpriate)
+- Battle trainer sprites (front and back where appropriate)
 - VS cut-in animations (names, portraits, colours), including changes to Kanto leader colours
 - Badge case graphics (including order of badges & portraits)
 - Gym building colour schemes
