@@ -131,7 +131,7 @@
     <th>Trainer Items:</th>
     <th>Types:</th>
     <td>Ghost / Poison</td>
-    <td>-</td>
+    <td>Normal</td>
     <td>Ghost</td>
     <td>Fire</td>
     <td>Ghost / Poison</td>
@@ -215,11 +215,11 @@
   <tr>
     <th>Trainer Items:</th>
     <th>Types:</th>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>Normal</td>
+    <td>Normal / Flying</td>
+    <td>Normal</td>
+    <td>Normal</td>
+    <td>Normal</td>
   </tr>
   <tr>
     <td>Full Restore</td>
@@ -390,11 +390,11 @@
     <th>Trainer Items:</th>
     <th>Types:</th>
     <td>Dark / Flying</td>
-    <td>-</td>
-    <td>-</td>
+    <td>Normal</td>
+    <td>Normal / Flying</td>
     <td>Ground / Flying</td>
     <td>Rock / Flying</td>
-    <td>-</td>
+    <td>Normal / Flying</td>
   </tr>
   <tr>
     <td>Full Restore</td>
