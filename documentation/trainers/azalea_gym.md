@@ -260,7 +260,7 @@
     <th>Held Item:</th>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
+    <td>Sitrus Berry</td>
   </tr>
   <tr>
     <th>Trainer Items:</th>
