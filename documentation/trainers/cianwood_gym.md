@@ -213,7 +213,7 @@
     <th>Types:</th>
     <td>Water / Psychic</td>
     <td>Psychic</td>
-    <td>-</td>
+    <td>Normal / Psychic</td>
   </tr>
   <tr>
     <td>-</td>

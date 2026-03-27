@@ -237,12 +237,12 @@
   <tr>
     <th>Trainer Items:</th>
     <th>Types:</th>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>Normal / Psychic</td>
+    <td>Normal</td>
+    <td>Normal / Water</td>
+    <td>Normal</td>
+    <td>Normal</td>
+    <td>Normal</td>
   </tr>
   <tr>
     <td>Full Restore</td>
@@ -425,12 +425,12 @@
   <tr>
     <th>Trainer Items:</th>
     <th>Types:</th>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>Normal / Flying</td>
+    <td>Normal / Flying</td>
+    <td>Normal / Flying</td>
     <td>Dark / Flying</td>
     <td>Water / Flying</td>
-    <td>-</td>
+    <td>Normal / Flying</td>
   </tr>
   <tr>
     <td>Full Restore</td>
