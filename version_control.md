@@ -1,5 +1,11 @@
 # Version History
 
+## Version 0.7: Game Complete (Pre-Release Dialogue Adjustments)
+> Nb, Saves from version 0.6 & 0.6.1 are compatible with this patch.
+
+- Bug Fix: Corrected the spelling of Pryce's name in his gym dialogue (x3).
+- Dialogue adjustments for various Gym Leaders & Elite Four members.
+
 ## Version 0.6: Game Complete (Pre-Release Bug Fixes)
 > Nb, Saves from version 0.5 are compatible with this patch.
 
