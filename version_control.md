@@ -1,5 +1,11 @@
 # Version History
 
+## Version 1.0: Game Complete (Release Day)
+> Nb, Saves from version 0.7 are compatible with this patch.
+
+- No fixes identified ("formal" upversion of version 0.7)
+
+
 ## Version 0.7: Game Complete (Pre-Release Dialogue Adjustments)
 > Nb, Saves from version 0.6 & 0.6.1 are compatible with this patch.
 
