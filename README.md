@@ -53,7 +53,7 @@ Everything I've (MrHam88) learned about ROM hacking has come from the [Kingdom o
 It is illegal to provide a pre-patched version of this ROM hack.
 This patch is compatible with a good clean `.nds` ROM dump from a US version of Pokémon HeartGold. Guidance on dumping the ROM from your cartridge can be found [here](https://ds-pokemon-hacking.github.io/docs/generation-iv/guides/getting_started/#prerequisites), along with the process to confirm a good clean dump was obtained by checking filehashes against this [known good ROMs list](https://ds-pokemon-hacking.github.io/docs/generation-iv/guides/getting_started/#known-good-roms).
 
-The provided patch is an `.xdelta` file, this can be applied using the [xDelta](https://www.romhacking.net/utilities/598/) tool.
+The provided patch is an `.xdelta` file, this can be applied using the [xDelta](https://www.romhacking.net/utilities/598/) tool for PC, or this mobile-friendly [online xDelta patcher](https://kotcrab.github.io/xdelta-wasm/).
 
 # Documentation
 See the repository [documentation](https://github.com/DevHam88/HeartGold-in-Reverse/blob/main/documentation.md) on all the changes included in this ROM Hack. This page provides a high-level overview of the changes, and includes spoilers to story and content changes.
