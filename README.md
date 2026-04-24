@@ -12,6 +12,7 @@ Details of how to patch the game, and documentation of the changes are provided 
 
 | Version | Release Date | Overview |
 | --- | --- | --- |
+| v1.1 | 24-Apr-2026 | Fixes #6 |
 | v1.0 | 22-Apr-2026 | Initial public release |
 
 Detailed development version history can be found [here](https://github.com/DevHam88/HeartGold-in-Reverse/blob/main/version_control.md).
