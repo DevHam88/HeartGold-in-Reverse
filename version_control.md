@@ -1,5 +1,10 @@
 # Version History
 
+## Version 1.1: Lance on a day off (Fix)
+> Nb, Saves from version 1.0 are compatible with this patch.
+
+- Fixes issue #6 (Lance incorrectly absent from gym on Thursdays before Hall of Fame)
+
 ## Version 1.0: Game Complete (Release Day)
 > Nb, Saves from version 0.7 are compatible with this patch.
 
