@@ -12,6 +12,7 @@ Details of how to patch the game, and documentation of the changes are provided 
 
 | Version | Release Date | Overview |
 | --- | --- | --- |
+| v1.2 | 17-Nov-2026 | Fixes #9 |
 | v1.1 | 24-Apr-2026 | Fixes #6 |
 | v1.0 | 22-Apr-2026 | Initial public release |
 
