@@ -1,5 +1,10 @@
 # Version History
 
+## Version 1.2: Elm's assistant REALLY wants to give you Rare Candies
+> Nb, Saves from version 1.0 are compatible with this patch.
+
+- Fixes issue #9 (Game freeze when declining the assistant's rare candy offer)
+
 ## Version 1.1: Lance on a day off (Fix)
 > Nb, Saves from version 1.0 are compatible with this patch.
 
